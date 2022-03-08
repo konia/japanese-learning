@@ -1,33 +1,20 @@
 export const themeData = {
   "logo": "https://vuejs.org/images/logo.png",
-  "nav": [
-    {
-      "text": "前端基础",
-      "link": "/accumulate/"
-    },
-    {
-      "text": "算法题库",
-      "link": "/algorithm/"
-    },
-    {
-      "text": "微博",
-      "link": "https://baidu.com"
-    }
-  ],
   "sidebar": [
     {
       "text": "词性",
       "link": "/property/",
       "children": [
-        {
-          "text": "github",
-          "link": "https://github.com",
-          "children": []
-        },
-        "/foo/bar.md"
+        "/lesson/lesson-one.md"
       ]
     },
-    "/README.md"
+    {
+      "text": "标准日本语",
+      "link": "/lesson/",
+      "children": [
+        "/lesson/lesson-one.md"
+      ]
+    }
   ],
   "sidebarDepth": 4,
   "lastUpdated": "Last Updated",
@@ -56,4 +43,17 @@ export const themeData = {
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode",
   "toggleSidebar": "toggle sidebar"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

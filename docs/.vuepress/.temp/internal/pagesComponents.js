@@ -3,28 +3,28 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /japanese.html
-  "v-4ed0dd22": defineAsyncComponent(() => import(/* webpackChunkName: "v-4ed0dd22" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/japanese.html.vue")),
-  // path: /lesson-eight.html
-  "v-c75688f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-c75688f4" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-eight.html.vue")),
-  // path: /lesson-five.html
-  "v-67ddf40b": defineAsyncComponent(() => import(/* webpackChunkName: "v-67ddf40b" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-five.html.vue")),
-  // path: /lesson-four.html
-  "v-8f2473d2": defineAsyncComponent(() => import(/* webpackChunkName: "v-8f2473d2" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-four.html.vue")),
-  // path: /lesson-nine.html
-  "v-62cf920b": defineAsyncComponent(() => import(/* webpackChunkName: "v-62cf920b" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-nine.html.vue")),
-  // path: /lesson-one.html
-  "v-fb5f19e2": defineAsyncComponent(() => import(/* webpackChunkName: "v-fb5f19e2" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-one.html.vue")),
-  // path: /lesson-serven.html
-  "v-c13c1ac4": defineAsyncComponent(() => import(/* webpackChunkName: "v-c13c1ac4" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-serven.html.vue")),
-  // path: /lesson-six.html
-  "v-39c21213": defineAsyncComponent(() => import(/* webpackChunkName: "v-39c21213" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-six.html.vue")),
-  // path: /lesson-three.html
-  "v-16bf77d7": defineAsyncComponent(() => import(/* webpackChunkName: "v-16bf77d7" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-three.html.vue")),
-  // path: /lesson-two.html
-  "v-76dedee9": defineAsyncComponent(() => import(/* webpackChunkName: "v-76dedee9" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lesson-two.html.vue")),
-  // path: /%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B.html
-  "v-6c2e7b0d": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c2e7b0d" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/李さんは男(おとこ)の人ですか、女(おんな)の人ですか.html.vue")),
+  // path: /%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A7%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A7%E3%81%99%E3%81%8B.html
+  "v-b75eca12": defineAsyncComponent(() => import(/* webpackChunkName: "v-b75eca12" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/李さんは男(おとこ)の人ですか、女(おんな)の人ですか.html.vue")),
+  // path: /lessons/japanese.html
+  "v-6bd3f59b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6bd3f59b" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/japanese.html.vue")),
+  // path: /lessons/lesson-eight.html
+  "v-95a9ac9c": defineAsyncComponent(() => import(/* webpackChunkName: "v-95a9ac9c" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-eight.html.vue")),
+  // path: /lessons/lesson-five.html
+  "v-68ab105f": defineAsyncComponent(() => import(/* webpackChunkName: "v-68ab105f" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-five.html.vue")),
+  // path: /lessons/lesson-four.html
+  "v-8d8a3b2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-8d8a3b2a" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-four.html.vue")),
+  // path: /lessons/lesson-nine.html
+  "v-639cae5f": defineAsyncComponent(() => import(/* webpackChunkName: "v-639cae5f" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-nine.html.vue")),
+  // path: /lessons/lesson-one.html
+  "v-38047c3b": defineAsyncComponent(() => import(/* webpackChunkName: "v-38047c3b" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-one.html.vue")),
+  // path: /lessons/lesson-serven.html
+  "v-bd4d6c1c": defineAsyncComponent(() => import(/* webpackChunkName: "v-bd4d6c1c" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-serven.html.vue")),
+  // path: /lessons/lesson-six.html
+  "v-2113c982": defineAsyncComponent(() => import(/* webpackChunkName: "v-2113c982" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-six.html.vue")),
+  // path: /lessons/lesson-three.html
+  "v-2f95e603": defineAsyncComponent(() => import(/* webpackChunkName: "v-2f95e603" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-three.html.vue")),
+  // path: /lessons/lesson-two.html
+  "v-2c92e815": defineAsyncComponent(() => import(/* webpackChunkName: "v-2c92e815" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-two.html.vue")),
   // path: /property/adjective.html
   "v-9c3a641e": defineAsyncComponent(() => import(/* webpackChunkName: "v-9c3a641e" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/property/adjective.html.vue")),
   // path: /property/auxiliary.html

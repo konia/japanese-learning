@@ -1,0 +1,1 @@
+const e={key:"v-c13c1ac4",path:"/lesson-serven.html",title:"\u7B2C\u4E03\u8AB2\u3000\u674E\u3055\u3093\u306F\u6BCE\u65E5\u30B3\u30FC\u30D2\u30FC\u3092\u98F2\u307F\u307E\u3059",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"lesson-serven.md"};export{e as data};

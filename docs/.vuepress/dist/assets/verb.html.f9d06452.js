@@ -1,0 +1,1 @@
+const t={key:"v-3c4a1219",path:"/property/verb.html",title:"\u52D5\u8A5E",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"property/verb.md"};export{t as data};

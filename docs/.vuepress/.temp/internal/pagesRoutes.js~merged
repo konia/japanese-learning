@@ -1,0 +1,51 @@
+import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
+
+const routeItems = [
+<<<<<<< Updated upstream
+  ["v-8daa1a0e","/",{"title":""},["/index.html","/README.md"]],
+  ["v-4ed0dd22","/japanese.html",{"title":"日本語版"},["/japanese","/japanese.md"]],
+  ["v-c75688f4","/lesson-eight.html",{"title":""},["/lesson-eight","/lesson-eight.md"]],
+  ["v-67ddf40b","/lesson-five.html",{"title":"第五課　森さんは7時に起きます"},["/lesson-five","/lesson-five.md"]],
+  ["v-8f2473d2","/lesson-four.html",{"title":"第四課　部屋に机と椅子があります"},["/lesson-four","/lesson-four.md"]],
+  ["v-62cf920b","/lesson-nine.html",{"title":""},["/lesson-nine","/lesson-nine.md"]],
+  ["v-fb5f19e2","/lesson-one.html",{"title":"第一課　李さんは中国人です"},["/lesson-one","/lesson-one.md"]],
+  ["v-c13c1ac4","/lesson-serven.html",{"title":"第七課　李さんは毎日コーヒーを飲みます"},["/lesson-serven","/lesson-serven.md"]],
+  ["v-39c21213","/lesson-six.html",{"title":"第六課　吉田さんは来月中国へ行きます"},["/lesson-six","/lesson-six.md"]],
+  ["v-16bf77d7","/lesson-three.html",{"title":"第三課　ここはデパートです"},["/lesson-three","/lesson-three.md"]],
+  ["v-76dedee9","/lesson-two.html",{"title":"第二課　これは本です"},["/lesson-two","/lesson-two.md"]],
+  ["v-6c2e7b0d","/%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B.html",{"title":""},["/李さんは男(おとこ)の人ですか、女(おんな)の人ですか.html","/%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B","/李さんは男(おとこ)の人ですか、女(おんな)の人ですか.md","/%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B.md"]],
+  ["v-9c3a641e","/property/adjective.html",{"title":"形容词"},["/property/adjective","/property/adjective.md"]],
+  ["v-e1fa3f98","/property/auxiliary.html",{"title":""},["/property/auxiliary","/property/auxiliary.md"]],
+  ["v-5c1f33fe","/property/noun.html",{"title":"名词"},["/property/noun","/property/noun.md"]],
+  ["v-47ac4dbc","/property/quantifier.html",{"title":"数量词"},["/property/quantifier","/property/quantifier.md"]],
+  ["v-3c4a1219","/property/verb.html",{"title":"動詞"},["/property/verb","/property/verb.md"]],
+=======
+  ["v-6c2e7b0d","/%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B.html",{"title":""},["/李さんは男(おとこ)の人ですか、女(おんな)の人ですか.html","/%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B","/李さんは男(おとこ)の人ですか、女(おんな)の人ですか.md","/%E6%9D%8E%E3%81%95%E3%82%93%E3%81%AF%E7%94%B7(%E3%81%8A%E3%81%A8%E3%81%93)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B%E3%80%81%E5%A5%B3(%E3%81%8A%E3%82%93%E3%81%AA)%E3%81%AE%E4%BA%BA%E3%81%A6%E3%82%99%E3%81%99%E3%81%8B.md"]],
+>>>>>>> Stashed changes
+  ["v-3706649a","/404.html",{"title":""},["/404"]],
+]
+
+export const pagesRoutes = routeItems.reduce(
+  (result, [name, path, meta, redirects]) => {
+    result.push(
+      {
+        name,
+        path,
+        component: Vuepress,
+        meta,
+      },
+      ...redirects.map((item) => ({
+        path: item,
+        redirect: path,
+      }))
+    )
+    return result
+  },
+  [
+    {
+      name: "404",
+      path: "/:catchAll(.*)",
+      component: Vuepress,
+    }
+  ]
+)
