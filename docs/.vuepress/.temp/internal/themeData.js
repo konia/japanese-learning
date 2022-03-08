@@ -1,29 +1,50 @@
 export const themeData = {
   "logo": "https://vuejs.org/images/logo.png",
-  "sidebar": [
+  "sidebar": "auto",
+  "sidebarDepth": 6,
+  "lastUpdated": "Last Updated",
+  "navbar": [
     {
-      "text": "词性",
-      "link": "/property/",
+      "text": "教程笔记",
       "children": [
-        "/lesson/lesson-one.md"
+        {
+          "text": "标准日本语",
+          "children": [
+            "/lessons/japanese.md",
+            "/lessons/lesson-one.md",
+            "/lessons/lesson-two.md",
+            "/lessons/lesson-three.md",
+            "/lessons/lesson-four.md",
+            "/lessons/lesson-five.md",
+            "/lessons/lesson-six.md",
+            "/lessons/lesson-seven.md",
+            "/lessons/lesson-eight.md",
+            "/lessons/lesson-nine.md"
+          ]
+        }
       ]
     },
     {
-      "text": "标准日本语",
-      "link": "/lesson/",
+      "text": "补充",
       "children": [
-        "/lesson/lesson-one.md"
+        {
+          "text": "词性",
+          "children": [
+            "/property/adjective.md",
+            "/property/auxiliary.md",
+            "/property/noun.md",
+            "/property/quantifier.md",
+            "/property/verb.md"
+          ]
+        }
       ]
     }
   ],
-  "sidebarDepth": 4,
-  "lastUpdated": "Last Updated",
   "locales": {
     "/": {
       "selectLanguageName": "English"
     }
   },
-  "navbar": [],
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",

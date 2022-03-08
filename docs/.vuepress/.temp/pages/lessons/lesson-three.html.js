@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1646729284000,
+    "contributors": [
+      {
+        "name": "Konia Huo",
+        "email": "huoqihua@cn.ibm.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "lessons/lesson-three.md"
 }

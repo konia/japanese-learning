@@ -15,8 +15,8 @@ export const pagesData = {
   "v-639cae5f": () => import(/* webpackChunkName: "v-639cae5f" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-nine.html.js").then(({ data }) => data),
   // path: /lessons/lesson-one.html
   "v-38047c3b": () => import(/* webpackChunkName: "v-38047c3b" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-one.html.js").then(({ data }) => data),
-  // path: /lessons/lesson-serven.html
-  "v-bd4d6c1c": () => import(/* webpackChunkName: "v-bd4d6c1c" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-serven.html.js").then(({ data }) => data),
+  // path: /lessons/lesson-seven.html
+  "v-2d5f78f4": () => import(/* webpackChunkName: "v-2d5f78f4" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-seven.html.js").then(({ data }) => data),
   // path: /lessons/lesson-six.html
   "v-2113c982": () => import(/* webpackChunkName: "v-2113c982" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-six.html.js").then(({ data }) => data),
   // path: /lessons/lesson-three.html

@@ -9,26 +9,46 @@ module.exports = {
   theme: '@vuepress/theme-default',
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
-    sidebar: [
-      // SidebarItem
-      {
-        text: '词性',
-        link: '/property/',
-        children: [
-          '/lesson/lesson-one.md',
-        ],
-      },
-      {
-        text: '标准日本语',
-        link: '/lesson/',
-        children: [
-          // SidebarItem
-          '/lesson/lesson-one.md',
-        ],
-      },
-    ], // 侧边栏配置
-    sidebarDepth: 4, // 侧边栏显示2级
+    sidebar: 'auto', // 侧边栏配置
+    sidebarDepth: 6, // 侧边栏显示2级
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
-  },
+    navbar: [
+      {
+        text: '教程笔记',
+        children: [
+          {
+            text: '标准日本语',
+            children: [
+              '/lessons/japanese.md',
+              '/lessons/lesson-one.md',
+              '/lessons/lesson-two.md',
+              '/lessons/lesson-three.md',
+              '/lessons/lesson-four.md',
+              '/lessons/lesson-five.md',
+              '/lessons/lesson-six.md',
+              '/lessons/lesson-seven.md',
+              '/lessons/lesson-eight.md',
+              '/lessons/lesson-nine.md',
+            ],
+          }
+        ]
+      },
+      {
+        text: '补充',
+        children: [
+          {
+            text: '词性',
+            children: [
+              '/property/adjective.md',
+              '/property/auxiliary.md',
+              '/property/noun.md',
+              '/property/quantifier.md',
+              '/property/verb.md'
+            ],
+          },
+        ]
+      }
+    ]
+  }
   
 }

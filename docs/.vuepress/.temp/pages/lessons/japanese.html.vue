@@ -1,7 +1,6 @@
 <template><h1 id="日本語版" tabindex="-1"><a class="header-anchor" href="#日本語版" aria-hidden="true">#</a> 日本語版</h1>
-<nav class="table-of-contents"><ul></ul></nav>
 <h4 id="日本語を勉強します" tabindex="-1"><a class="header-anchor" href="#日本語を勉強します" aria-hidden="true">#</a> 日本語を勉強します</h4>
-<h5 id="清音-せいおん" tabindex="-1"><a class="header-anchor" href="#清音-せいおん" aria-hidden="true">#</a> 清音（せいおん）</h5>
+<h3 id="清音-せいおん" tabindex="-1"><a class="header-anchor" href="#清音-せいおん" aria-hidden="true">#</a> 清音（せいおん）</h3>
 <table>
 <thead>
 <tr>
@@ -164,7 +163,7 @@
 </tr>
 </tbody>
 </table>
-<h5 id="浊音-だくおん" tabindex="-1"><a class="header-anchor" href="#浊音-だくおん" aria-hidden="true">#</a> 浊音 （だくおん）</h5>
+<h3 id="浊音-だくおん" tabindex="-1"><a class="header-anchor" href="#浊音-だくおん" aria-hidden="true">#</a> 浊音 （だくおん）</h3>
 <table>
 <thead>
 <tr>
@@ -236,7 +235,7 @@
 </tr>
 </tbody>
 </table>
-<h5 id="半浊音-はんだくおん" tabindex="-1"><a class="header-anchor" href="#半浊音-はんだくおん" aria-hidden="true">#</a> 半浊音（はんだくおん）</h5>
+<h3 id="半浊音-はんだくおん" tabindex="-1"><a class="header-anchor" href="#半浊音-はんだくおん" aria-hidden="true">#</a> 半浊音（はんだくおん）</h3>
 <table>
 <thead>
 <tr>
@@ -269,7 +268,7 @@
 </tr>
 </tbody>
 </table>
-<h5 id="拗音-ようおん" tabindex="-1"><a class="header-anchor" href="#拗音-ようおん" aria-hidden="true">#</a> 拗音（ようおん）</h5>
+<h3 id="拗音-ようおん" tabindex="-1"><a class="header-anchor" href="#拗音-ようおん" aria-hidden="true">#</a> 拗音（ようおん）</h3>
 <table>
 <thead>
 <tr>
@@ -394,15 +393,15 @@
 </tbody>
 </table>
 <hr>
-<h4 id="发音" tabindex="-1"><a class="header-anchor" href="#发音" aria-hidden="true">#</a> 发音</h4>
+<h3 id="发音" tabindex="-1"><a class="header-anchor" href="#发音" aria-hidden="true">#</a> 发音</h3>
 <p>か 行的辅音发音与汉语的 kg 相似，出现在词头发音与 k 相近，出现在词中与 g 相近</p>
 <p>させそ　 sa se so 　しす　 xi si</p>
 <p>たてこ　 ta te to t..d ち　 qi ji 　つ ci zi</p>
 <p>へ</p>
 <p>がくせい　学生　　だいがくせい　大学生　　当这 8 个假名位于单词 词中 或者 词尾的时候，鼻浊音 がぎぐげご　 ne</p>
-<h4 id="拗音" tabindex="-1"><a class="header-anchor" href="#拗音" aria-hidden="true">#</a> 拗音</h4>
+<h3 id="拗音" tabindex="-1"><a class="header-anchor" href="#拗音" aria-hidden="true">#</a> 拗音</h3>
 <p>テャ</p>
-<h4 id="拨音发音规则" tabindex="-1"><a class="header-anchor" href="#拨音发音规则" aria-hidden="true">#</a> 拨音发音规则</h4>
+<h3 id="拨音发音规则" tabindex="-1"><a class="header-anchor" href="#拨音发音规则" aria-hidden="true">#</a> 拨音发音规则</h3>
 <p>あ + ん　 ang</p>
 <p>い＋ん　 in</p>
 <p>う＋ん　 un</p>
@@ -413,7 +412,7 @@
 <li>n ＋　だ　た　な　ら　半島　はんとう　問題　もんだい　本来　ほんらい　新年　しんねん</li>
 <li>m ＋　ば　ぱ　ま　散歩　さんぽ　新聞　しんぶん　新米　しんまい</li>
 </ol>
-<h4 id="鼻浊音" tabindex="-1"><a class="header-anchor" href="#鼻浊音" aria-hidden="true">#</a> 鼻浊音</h4>
+<h3 id="鼻浊音" tabindex="-1"><a class="header-anchor" href="#鼻浊音" aria-hidden="true">#</a> 鼻浊音</h3>
 <p>当这 8 个假</p>
 <p>于单词 词中 或 词末 时， 可以念鼻浊音</p>
 <p>が　ぎ　ぐ　げ　ご</p>
@@ -422,7 +421,7 @@
 <li>大学生　だいがくせい</li>
 <li>授業　じゅぎょう</li>
 </ul>
-<h4 id="长音" tabindex="-1"><a class="header-anchor" href="#长音" aria-hidden="true">#</a> 长音</h4>
+<h3 id="长音" tabindex="-1"><a class="header-anchor" href="#长音" aria-hidden="true">#</a> 长音</h3>
 <p>$$
 \left.
 \begin{aligned}
@@ -442,20 +441,20 @@ $$</p>
 <p>拗音や＋あ 　チャーハン　炒飯</p>
 <p>拗音ゆ＋う　とうにゅう　豆乳　豆浆</p>
 <p>拗音よ＋う　とうきょう　東京</p>
-<h4 id="音调" tabindex="-1"><a class="header-anchor" href="#音调" aria-hidden="true">#</a> 音调</h4>
+<h3 id="音调" tabindex="-1"><a class="header-anchor" href="#音调" aria-hidden="true">#</a> 音调</h3>
 <p>0 调 = 升调</p>
 <p>1 调 = 降调</p>
 <p>2 调 = 2 在上面</p>
 <p>3 调 = 2 3 在上</p>
 <p>4 调 = 2 3 4 在上</p>
-<h4 id="促音" tabindex="-1"><a class="header-anchor" href="#促音" aria-hidden="true">#</a> 促音</h4>
+<h3 id="促音" tabindex="-1"><a class="header-anchor" href="#促音" aria-hidden="true">#</a> 促音</h3>
 <p>小写っ　さっか</p>
 <p>か　っか　っき　っく　っけ　っこ</p>
 <p>さ　っさ　っし　っす　っせ　っそ</p>
 <p>た　った　っち　っつ　って　っと</p>
 <p>ぱ　っぱ　っぴ　っぷ　っぺ　っぽ</p>
 <p>テニスの王子様</p>
-<h4 id="送气音与不送气音" tabindex="-1"><a class="header-anchor" href="#送气音与不送气音" aria-hidden="true">#</a> 送气音与不送气音</h4>
+<h3 id="送气音与不送气音" tabindex="-1"><a class="header-anchor" href="#送气音与不送气音" aria-hidden="true">#</a> 送气音与不送气音</h3>
 <ul>
 <li>出现在词头时，气流比较强，清晰的 か　た　ぱ　----- 送气</li>
 <li>出现在词中词尾，轻松发音和一口气，为了发音便利 ----不送气</li>

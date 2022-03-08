@@ -17,8 +17,8 @@ export const pagesComponents = {
   "v-639cae5f": defineAsyncComponent(() => import(/* webpackChunkName: "v-639cae5f" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-nine.html.vue")),
   // path: /lessons/lesson-one.html
   "v-38047c3b": defineAsyncComponent(() => import(/* webpackChunkName: "v-38047c3b" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-one.html.vue")),
-  // path: /lessons/lesson-serven.html
-  "v-bd4d6c1c": defineAsyncComponent(() => import(/* webpackChunkName: "v-bd4d6c1c" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-serven.html.vue")),
+  // path: /lessons/lesson-seven.html
+  "v-2d5f78f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d5f78f4" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-seven.html.vue")),
   // path: /lessons/lesson-six.html
   "v-2113c982": defineAsyncComponent(() => import(/* webpackChunkName: "v-2113c982" */"/Users/konia/Documents/Japanese-Learning/docs/.vuepress/.temp/pages/lessons/lesson-six.html.vue")),
   // path: /lessons/lesson-three.html
