@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/Japanese-Learning/',
+  base: '/japanese-learning/',
   // 站点配置
   lang: 'zh-CN',
   title: 'Japanese Learning',
