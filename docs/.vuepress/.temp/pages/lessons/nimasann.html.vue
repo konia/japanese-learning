@@ -1,11 +1,12 @@
-<template><p><strong>第１課</strong></p>
-<p><strong>１．名詞A　は　名詞B　です。</strong></p>
-<p><strong>２．名詞A　は　名詞B　じゃありません。</strong></p>
-<p><strong>３．名詞A　は　名詞B　ですか。</strong></p>
-<p><strong>４．名詞　も　…</strong></p>
-<p><strong>５．名詞A　の　名詞B</strong></p>
-<p><strong>６．～さん／ちゃん</strong></p>
-<p><strong>第2課</strong></p>
+<template><h1 id="大家的日本语" tabindex="-1"><a class="header-anchor" href="#大家的日本语" aria-hidden="true">#</a> 大家的日本语</h1>
+<h2 id="第1課" tabindex="-1"><a class="header-anchor" href="#第1課" aria-hidden="true">#</a> 第１課</h2>
+<h3 id="_1-名詞a-は-名詞b-です。" tabindex="-1"><a class="header-anchor" href="#_1-名詞a-は-名詞b-です。" aria-hidden="true">#</a> １．名詞A　は　名詞B　です。###</h3>
+<h3 id="_2-名詞a-は-名詞b-じゃありません。" tabindex="-1"><a class="header-anchor" href="#_2-名詞a-は-名詞b-じゃありません。" aria-hidden="true">#</a> ２．名詞A　は　名詞B　じゃありません。###</h3>
+<h3 id="_3-名詞a-は-名詞b-ですか。" tabindex="-1"><a class="header-anchor" href="#_3-名詞a-は-名詞b-ですか。" aria-hidden="true">#</a> ３．名詞A　は　名詞B　ですか。###</h3>
+<h3 id="_4-名詞-も" tabindex="-1"><a class="header-anchor" href="#_4-名詞-も" aria-hidden="true">#</a> ４．名詞　も　…###</h3>
+<h3 id="_5-名詞a-の-名詞b" tabindex="-1"><a class="header-anchor" href="#_5-名詞a-の-名詞b" aria-hidden="true">#</a> ５．名詞A　の　名詞B###</h3>
+<h3 id="_6-さん-ちゃん" tabindex="-1"><a class="header-anchor" href="#_6-さん-ちゃん" aria-hidden="true">#</a> ６．～さん／ちゃん###</h3>
+<h2 id="第2課" tabindex="-1"><a class="header-anchor" href="#第2課" aria-hidden="true">#</a> 第2課</h2>
 <p><strong>１．これ／それ／あれ</strong></p>
 <p>これ 指离说话人近的物体</p>
 <p>それ 指离听话人近的物体</p>
@@ -16,12 +17,12 @@
 <p>对两个及两个以上的并列疑问句。回答这种疑问句时，直接重复选好的句子就行。</p>
 <p><strong>５．そうですか。</strong></p>
 <p>语气降调，表示知道了，了解了。</p>
-<p><strong>第３課</strong></p>
+<h2 id="第3課" tabindex="-1"><a class="header-anchor" href="#第3課" aria-hidden="true">#</a> 第３課**</h2>
 <p><strong>１．ここ／そこ／あそこ／こちら／そちら／あちら</strong></p>
 <p><strong>２．名詞A　は　場所Bです。</strong></p>
 <p>A在B，表示场所或者物体或者人存在的地方。</p>
 <p><strong>３．どこ／どちら</strong></p>
-<p><strong>第４課</strong></p>
+<h2 id="第4課" tabindex="-1"><a class="header-anchor" href="#第4課" aria-hidden="true">#</a> 第４課**</h2>
 <p><strong>１．今　ー時ー分です。</strong></p>
 <p>今　何時　ですか。</p>
 <p>ーー　７時１０分です。</p>
@@ -38,7 +39,7 @@
 <p>词语并列，但此种举例为完整举例，说明只有A和B，没有其他东西了。</p>
 <p><strong>６．～ね</strong></p>
 <p>接在句尾，表示说话人希望得到听话人的同意或者说话人对某一事物加以确认或叮嘱的语气。</p>
-<p><strong>第５課</strong></p>
+<h2 id="第5課" tabindex="-1"><a class="header-anchor" href="#第5課" aria-hidden="true">#</a> 第５課**</h2>
 <p><strong>１．名詞（場所）へ　行きます／来ます／帰ります。</strong></p>
 <p>へ表示移动的方向</p>
 <p><strong>２．どこ「へ」も　行きません／行きませんでした</strong></p>
@@ -52,7 +53,7 @@
 <p><strong>５．いつ</strong></p>
 <p>询问笼统的时间的，一般放在句首，回答一般比较随意，如几月几号，下周，下个月...</p>
 <p>例：いつ　日本へ来ましたか。</p>
-<p><strong>第６課</strong></p>
+<h2 id="第6課" tabindex="-1"><a class="header-anchor" href="#第6課" aria-hidden="true">#</a> 第６課**</h2>
 <p><strong>１．名詞****を</strong>　<strong>他动词</strong></p>
 <p><strong>２．名詞****を</strong>　<strong>します。</strong></p>
 <p><strong>３．何をしますか／何をしましたか。</strong></p>
@@ -63,7 +64,7 @@
 <p>**５．名詞（場所）**<strong>で</strong>　<strong>動詞</strong></p>
 <p>で　再次表示动作发生的场所。</p>
 <p><strong>６．動詞ませんか／動詞ましょう</strong></p>
-<p><strong>第７課</strong></p>
+<h2 id="第7課" tabindex="-1"><a class="header-anchor" href="#第7課" aria-hidden="true">#</a> 第７課**</h2>
 <p><strong>１．名詞（工具、手段）<strong><strong>で</strong></strong>動詞</strong></p>
 <p>用什么工具，手段、语言等等做什么。这里で表示手段和方法。语言+で表示用什么语言。</p>
 <p>**２．名詞A（人）**<strong>に</strong>　<strong>名詞B　を　あげます／貸します／教えます等等</strong></p>
@@ -75,7 +76,7 @@
 <p><strong>４．もう　動詞ました</strong></p>
 <p>已经...</p>
 <p>例：もう荷物送りましたか。　ーーはい、[もう]送りました　／　いいえ、まだです。</p>
-<p><strong>第8課</strong></p>
+<h2 id="第8課" tabindex="-1"><a class="header-anchor" href="#第8課" aria-hidden="true">#</a> 第8課**</h2>
 <p><strong>１．名詞は　な形容词　です。　｜　名詞は　い 形容词い　です。</strong></p>
 <p><strong>２．な形容词な名詞　｜　い形容词い名詞</strong></p>
 <p>na 形容词后面必须加 na ，i 形容词后面必须有加 i。只有当被形容的名词被作为主语时，后面的na 可以省略</p>
@@ -92,7 +93,7 @@
 <p><strong>６．名詞Aは　どんな　名詞B　ですか。</strong></p>
 <p>A是怎么样的B呢？</p>
 <p>例：奈良は　どんな　町ですか。</p>
-<p><strong>第９課</strong></p>
+<h2 id="第9課" tabindex="-1"><a class="header-anchor" href="#第9課" aria-hidden="true">#</a> 第９課**</h2>
 <p><strong>１．名詞****が</strong>　<strong>あります／わかります／好きです／嫌いです／上手です／下手です。</strong></p>
 <p>名词+ga+自动词</p>
 <p>例：私は　日本語が　好きです。</p>
@@ -106,7 +107,7 @@
 <p>例：時間がありませんから、新聞を読みません。</p>
 <p><strong>５．どうして</strong></p>
 <p>询问原因，一般放在句首。用4的句型回答</p>
-<p><strong>第10課</strong></p>
+<h2 id="第10課" tabindex="-1"><a class="header-anchor" href="#第10課" aria-hidden="true">#</a> 第10課**</h2>
 <p><strong>１．名词 +</strong> <strong>が</strong>　<strong>+ あります／います</strong></p>
 <p>います表示能自己移动的主体的存在，あります表示物品的存在。が连接的名词作为存在的主体</p>
 <p><strong>２．场所A +</strong> <strong>に</strong> <strong>+ 名词B +</strong> <strong>が</strong> <strong>+ あります／います</strong></p>
@@ -118,7 +119,7 @@
 <p><strong>５．名词の位置</strong></p>
 <p>「うえ　⓪　上」「した　⓪　下」「まえ　①　前」「うしろ　⓪　後ろ」「みぎ　⓪　右」「ひだり　⓪　左」「なか　①　中」 「そと　①　外」「となり　⓪　隣」「ちかく　②①　近く」「あいだ　⓪　間」</p>
 <p>其中 なか 表示在什么里面，AとBの間 在A和B的中间</p>
-<p><strong>第11課</strong></p>
+<h2 id="第11課" tabindex="-1"><a class="header-anchor" href="#第11課" aria-hidden="true">#</a> 第11課**</h2>
 <p><strong>１．数量词用法</strong></p>
 <ol>
 <li>
@@ -158,7 +159,7 @@
 <p>这个に表示“每”，整个句型表示每（几月、几天，几个小时，几分钟...）做几次。如：「１か月に　２回　映画を　見ます。」注意每年每月每日的固定表示后不加に</p>
 <p><strong>３．だけ接在名词或者数量词后面表示“只有这些”</strong></p>
 <p>如：休みは　日曜日だけです。　―  只有星期天休息</p>
-<p><strong>第12課</strong></p>
+<h2 id="第12課" tabindex="-1"><a class="header-anchor" href="#第12課" aria-hidden="true">#</a> 第12課**</h2>
 <p><strong>１．な形容词的时态：肯定，否定</strong></p>
 <table>
 <thead>
@@ -271,10 +272,10 @@
 <p>这些都是连语，是一个整体，指代某个地方某个物品等。类似于英语的somewhere something。这两个词后面的助词へ、を可以省略。</p>
 <p>例：冬休みは　どこが「へ」行きました。　寒假去哪儿了吗？</p>
 <p>何か「を」。　[我想]喝点儿什么</p>
-<p><strong>第14课</strong></p>
+<h2 id="第14课" tabindex="-1"><a class="header-anchor" href="#第14课" aria-hidden="true">#</a> 第14课**</h2>
 <p><strong>１．动词的类型</strong></p>
 <p>消します、話します这种是特殊的Ⅰ类动词，只是它词尾是し，看起来像是Ⅲ类动词。</p>
-<p>​    <img src="https://note.youdao.com/yws/public/resource/a7d1ee706eebc643b13dca8d54b32d1f/xmlnote/FBFE8CA61C4240AE9ECF89C67D1D5D79/10095" alt="0"></p>
+<p>​    <img src="@source/images/clipboard.png" alt="0"></p>
 <p><strong>２．动词的て形</strong></p>
 <p>Ⅱ类动词直接用ます形加上て就行</p>
 <p>Ⅲ类动词也是ます形加上て就行。</p>
@@ -296,7 +297,7 @@
 <p>把自己五官所感的某种现象直接说出来，或客观第传达某件事情时，主语用助词が。</p>
 <p>例：ミラーさんが　いませんね。</p>
 <p>雨が降っています。</p>
-<p><strong>第15课</strong></p>
+<h2 id="第15课" tabindex="-1"><a class="header-anchor" href="#第15课" aria-hidden="true">#</a> 第15课**</h2>
 <p><strong>１．動詞て形も　いいですか</strong></p>
 <p>这个句型作为疑问句的时候是表示说话人希望得到许可，陈述句形式是表示说话人允许别人，许可别人。通常这个句型的主语都是「私は」，所以一般省略主语。</p>
 <p>例：ここで　タバコを吸っても　いいですか。　ー&gt;　ええ、[吸っても]いいですよ。/<strong>すみません、ちょっと....</strong></p>
@@ -328,7 +329,7 @@
 <p>に的用处同上。</p>
 <p>例：ここに　車を　止って　ください。</p>
 <p>注意在形容出租车临时停车用で。</p>
-<p><strong>第16课</strong></p>
+<h2 id="第16课" tabindex="-1"><a class="header-anchor" href="#第16课" aria-hidden="true">#</a> 第16课**</h2>
 <p><strong>１．使用て（で）连接两个以上的句子</strong></p>
 <p>这个句型也是表示“并列”，当连接的是动作的时候，描述两个以上连续发生的动作，并且按照陈述的顺序依次进行。<strong>整个句子的时态按最后一个动词的时态而定。</strong></p>
 <p>１）．動詞て形動詞て形...動詞</p>
@@ -362,7 +363,7 @@
 <p>ー＞　京都駅から　１６番のバスに　乗って、大学前で　降ります。</p>
 <p><strong>６．どれ/どの</strong></p>
 <p>要求对方从3个以上的事物中指定一个时，使用どれ　どの</p>
-<p><strong>第17课</strong></p>
+<h2 id="第17课" tabindex="-1"><a class="header-anchor" href="#第17课" aria-hidden="true">#</a> 第17课**</h2>
 <p><strong>１．動詞ない形</strong></p>
 <p>动词的ない形可以看做是ません的简体。</p>
 <p>ない形可以当做动作的否定形态。不同类型的动词的变形方式不同。</p>
@@ -385,7 +386,7 @@
 <p>这里的に表示期限。</p>
 <p>例：土曜日までに　本を返さなければ　なりません。<em>必须在星期6之前把书还了。</em></p>
 <p>注意这里要和 まで区分开，まで表示持续进行的动作的结束时间，比如说“我一直工作到下午5点。” 和“我（最迟）下午五点要去上班” 还是有区别的。</p>
-<p><strong>第18课</strong></p>
+<h2 id="第18课" tabindex="-1"><a class="header-anchor" href="#第18课" aria-hidden="true">#</a> 第18课**</h2>
 <p><strong>１．動詞辞書形</strong></p>
 <p>动词的辞书形，也叫做动词的基本形或者动词的字典形。辞书形其实就是ます形的一种简体形式。基本形的变化方式如下：</p>
 <p>​    <img src="https://note.youdao.com/yws/public/resource/a7d1ee706eebc643b13dca8d54b32d1f/xmlnote/4B08EC7E687A4615B794DAD2F7D95106/10115" alt="0"></p>
@@ -419,7 +420,7 @@
 <p><strong>６．ぜひ</strong></p>
 <p>用于加强语气，表达说话人的愿望，可翻译为“一定”。但<strong>注意不能用于表示推测</strong>。</p>
 <p>例：ぜひ　北海道へ　行きたいです。</p>
-<p><strong>第19课</strong></p>
+<h2 id="第19课" tabindex="-1"><a class="header-anchor" href="#第19课" aria-hidden="true">#</a> 第19课**</h2>
 <p><strong>１．动词的た形</strong></p>
 <p>た形相当于是ました的简体。た形的变形方式与て形一样，只是把相应的て或者で换成た或者だ。</p>
 <p><strong>２．動詞た形　ことが　あります。</strong></p>
@@ -435,7 +436,7 @@
 <p>例：寒く　なります。　<em>变冷</em></p>
 <p>元気に　なります。	<em>恢复健康</em></p>
 <p>２５歳に　なります。	<em>到25岁</em></p>
-<p><strong>第20课</strong></p>
+<h2 id="第20课" tabindex="-1"><a class="header-anchor" href="#第20课" aria-hidden="true">#</a> 第20课**</h2>
 <p><strong>１．敬体简体化</strong></p>
 <p><strong>动词的简体化</strong></p>
 <p>ます　ー＞　普通形</p>
@@ -466,7 +467,7 @@
 <p>例：今雨が降ってる。</p>
 <p>５）<strong>けど</strong>代替が做为转折</p>
 <p>例：カレー　美味しいけど、辛い。</p>
-<p><strong>第21课</strong></p>
+<h2 id="第21课" tabindex="-1"><a class="header-anchor" href="#第21课" aria-hidden="true">#</a> 第21课**</h2>
 <p><strong>１．普通形（简体形）と思います</strong></p>
 <p>思考，判断的内容用と表示。这个句型翻译为“我想...”，“我认为...”。用于表示推测或者阐述意见。其<strong>否定形式是将前面的普通形换成否定形式</strong>。通常这个句型都省略主语，默认主语是自己。有过去时态「思った」，可以翻译为，“<strong>我以为</strong>”</p>
 <p>例：明日雨が降ると思います。</p>
@@ -487,7 +488,7 @@
 <p><strong>６．動詞ない形ないと.......</strong></p>
 <p>「ないと　いけません」的简化。<strong>用法和含义与「なければ　なりません」基本一致。</strong></p>
 <p>例：もう　帰らないと...  <em>再不回去就...</em></p>
-<p><strong>第22课</strong></p>
+<h2 id="第22课" tabindex="-1"><a class="header-anchor" href="#第22课" aria-hidden="true">#</a> 第22课**</h2>
 <p><strong>１．小句（句节）修饰名词</strong></p>
 <p>这个句型可以理解为“从句”，这个“从句”不仅可以是“定语从句”来修饰名词，还可以是“主语从句”来修饰主语。<strong>小句可以出现在任何地方</strong>。在小句中动词，形容词和名词都使用<strong>普通形</strong>，而<strong>な形容词是直接加な，名词后加の</strong>。<strong>但是如果是在过去时态，所有小句中的词都按照20课的简体方式进行简化。</strong></p>
 <p>例：（背が高くて、髪が黒い）　人。</p>
@@ -500,7 +501,7 @@
 <p>例：私は　朝ごはんを　食べる　時間<strong>が</strong>　ありません。</p>
 <p>私は　友達と映画を見る　約束が　あります。</p>
 <p>今日は　市役所へ　行く　用事が　あります。</p>
-<p><strong>第23课</strong></p>
+<h2 id="第23课" tabindex="-1"><a class="header-anchor" href="#第23课" aria-hidden="true">#</a> 第23课**</h2>
 <p><strong>１．动词字典形（ない形+ない、い形容词+い、な形容词+な、名词+の）とき、~主句</strong></p>
 <p>这个句型相当于英语中的“when”。表示后面主句的状态，动作或者现象成立的时间，可以翻译为“...时...的时候”。<strong>注意从句的时态不受主句时态的影响。</strong></p>
 <p>例：図書館で　本を借りる　とき、カードが要ります。</p>
@@ -516,7 +517,7 @@
 <p>这个句型表示从句的动作或者事态只要一发生，主句的动作，现象或者状态就一定会发生。这个句型<strong>更强调因果关系的必然性</strong>，多用于陈述前因后果的客观存在性，而不是主观的想法。</p>
 <p>例：この　ボタンを押すと、お釣りが出ます。</p>
 <p>右へ　曲がると、郵便局が　あります。</p>
-<p><strong>第24课</strong></p>
+<h2 id="第24课" tabindex="-1"><a class="header-anchor" href="#第24课" aria-hidden="true">#</a> 第24课**</h2>
 <p><strong>１．くれます</strong></p>
 <p>「くれます」表示的是“<strong>别人给我...</strong>”，「あげます」表示“<strong>我给别人...</strong>”，「もらいます」表示“<strong>我从别人那儿收到...</strong>”或者“<strong>我请求别人为我...</strong>”。使用这些词的时候一定要注意图中的圈的范围限定。「上げます」と「もらいます」都可以在同圈的范围使用，<strong>而「くれます」不能</strong>。</p>
 <p>​    <img src="https://note.youdao.com/yws/public/resource/a7d1ee706eebc643b13dca8d54b32d1f/xmlnote/02600F785BA54A7B90C09216E9EB641A/10129" alt="0"></p>
@@ -535,7 +536,7 @@
 <p>表达主动为某人做某事的时候，通常都不使用「あげますか」这样的疑问，一般都使用「ましょうか」</p>
 <p>例：手伝いましょうか。</p>
 <p>手伝ってあげましょうか。</p>
-<p><strong>第25课</strong></p>
+<h2 id="第25课" tabindex="-1"><a class="header-anchor" href="#第25课" aria-hidden="true">#</a> 第25课**</h2>
 <p><strong>１．过去式简体ら、～主句</strong></p>
 <p>这个句型表达“如果...”。如果从句的假定条件允许的话，主句的则成立。这里的主句一般是说话人的意向，愿望，劝诱委托，或者请求等。注意这个句型和「と」句型的区别。と句型通常都是表示一个客观的因果关系，更强调的是因果关系。而这个句型更倾向于表达一个愿望。这个句型前加「もし」可以强调说话人的假定语气。</p>
 <p>例：お金が　あったら、旅行します。</p>
