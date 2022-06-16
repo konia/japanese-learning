@@ -1,69 +1,71 @@
 <template><h1 id="大家的日本语" tabindex="-1"><a class="header-anchor" href="#大家的日本语" aria-hidden="true">#</a> 大家的日本语</h1>
 <h2 id="第1課" tabindex="-1"><a class="header-anchor" href="#第1課" aria-hidden="true">#</a> 第１課</h2>
-<h3 id="_1-名詞a-は-名詞b-です。" tabindex="-1"><a class="header-anchor" href="#_1-名詞a-は-名詞b-です。" aria-hidden="true">#</a> １．名詞A　は　名詞B　です。###</h3>
-<h3 id="_2-名詞a-は-名詞b-じゃありません。" tabindex="-1"><a class="header-anchor" href="#_2-名詞a-は-名詞b-じゃありません。" aria-hidden="true">#</a> ２．名詞A　は　名詞B　じゃありません。###</h3>
-<h3 id="_3-名詞a-は-名詞b-ですか。" tabindex="-1"><a class="header-anchor" href="#_3-名詞a-は-名詞b-ですか。" aria-hidden="true">#</a> ３．名詞A　は　名詞B　ですか。###</h3>
-<h3 id="_4-名詞-も" tabindex="-1"><a class="header-anchor" href="#_4-名詞-も" aria-hidden="true">#</a> ４．名詞　も　…###</h3>
-<h3 id="_5-名詞a-の-名詞b" tabindex="-1"><a class="header-anchor" href="#_5-名詞a-の-名詞b" aria-hidden="true">#</a> ５．名詞A　の　名詞B###</h3>
-<h3 id="_6-さん-ちゃん" tabindex="-1"><a class="header-anchor" href="#_6-さん-ちゃん" aria-hidden="true">#</a> ６．～さん／ちゃん###</h3>
+<h3 id="_1-名詞a-は-名詞b-です。" tabindex="-1"><a class="header-anchor" href="#_1-名詞a-は-名詞b-です。" aria-hidden="true">#</a> １．名詞A　は　名詞B　です。</h3>
+<p>名词肯定句</p>
+<h3 id="_2-名詞a-は-名詞b-じゃありません。" tabindex="-1"><a class="header-anchor" href="#_2-名詞a-は-名詞b-じゃありません。" aria-hidden="true">#</a> ２．名詞A　は　名詞B　じゃありません。</h3>
+<h3 id="_3-名詞a-は-名詞b-ですか。" tabindex="-1"><a class="header-anchor" href="#_3-名詞a-は-名詞b-ですか。" aria-hidden="true">#</a> ３．名詞A　は　名詞B　ですか。</h3>
+<h3 id="_4-名詞-も" tabindex="-1"><a class="header-anchor" href="#_4-名詞-も" aria-hidden="true">#</a> ４．名詞　も　…</h3>
+<h3 id="_5-名詞a-の-名詞b" tabindex="-1"><a class="header-anchor" href="#_5-名詞a-の-名詞b" aria-hidden="true">#</a> ５．名詞A　の　名詞B</h3>
+<p>の表示从属关系</p>
+<h3 id="_6-さん-ちゃん" tabindex="-1"><a class="header-anchor" href="#_6-さん-ちゃん" aria-hidden="true">#</a> ６．～さん／ちゃん</h3>
 <h2 id="第2課" tabindex="-1"><a class="header-anchor" href="#第2課" aria-hidden="true">#</a> 第2課</h2>
-<p><strong>１．これ／それ／あれ</strong></p>
+<h3 id="_1-これ-それ-あれ" tabindex="-1"><a class="header-anchor" href="#_1-これ-それ-あれ" aria-hidden="true">#</a> <strong>１．これ／それ／あれ</strong></h3>
 <p>これ 指离说话人近的物体</p>
 <p>それ 指离听话人近的物体</p>
 <p>あれ 指离双方都比较远的物体</p>
-<p><strong>２．この名詞／その名詞／あの名詞</strong></p>
-<p><strong>３．そうです。</strong></p>
-<p><strong>４．～か、～か</strong></p>
+<h3 id="_2-この名詞-その名詞-あの名詞" tabindex="-1"><a class="header-anchor" href="#_2-この名詞-その名詞-あの名詞" aria-hidden="true">#</a> <strong>２．この名詞／その名詞／あの名詞</strong></h3>
+<h3 id="_3-そうです。" tabindex="-1"><a class="header-anchor" href="#_3-そうです。" aria-hidden="true">#</a> <strong>３．そうです。</strong></h3>
+<h3 id="_4-か、-か" tabindex="-1"><a class="header-anchor" href="#_4-か、-か" aria-hidden="true">#</a> <strong>４．～か、～か</strong></h3>
 <p>对两个及两个以上的并列疑问句。回答这种疑问句时，直接重复选好的句子就行。</p>
-<p><strong>５．そうですか。</strong></p>
+<h3 id="_5-そうですか。" tabindex="-1"><a class="header-anchor" href="#_5-そうですか。" aria-hidden="true">#</a> <strong>５．そうですか。</strong></h3>
 <p>语气降调，表示知道了，了解了。</p>
-<h2 id="第3課" tabindex="-1"><a class="header-anchor" href="#第3課" aria-hidden="true">#</a> 第３課**</h2>
-<p><strong>１．ここ／そこ／あそこ／こちら／そちら／あちら</strong></p>
-<p><strong>２．名詞A　は　場所Bです。</strong></p>
+<h2 id="第3課" tabindex="-1"><a class="header-anchor" href="#第3課" aria-hidden="true">#</a> 第３課</h2>
+<h3 id="_1-ここ-そこ-あそこ-こちら-そちら-あちら" tabindex="-1"><a class="header-anchor" href="#_1-ここ-そこ-あそこ-こちら-そちら-あちら" aria-hidden="true">#</a> <strong>１．ここ／そこ／あそこ／こちら／そちら／あちら</strong></h3>
+<h3 id="_2-名詞a-は-場所bです。" tabindex="-1"><a class="header-anchor" href="#_2-名詞a-は-場所bです。" aria-hidden="true">#</a> <strong>２．名詞A　は　場所Bです。</strong></h3>
 <p>A在B，表示场所或者物体或者人存在的地方。</p>
-<p><strong>３．どこ／どちら</strong></p>
-<h2 id="第4課" tabindex="-1"><a class="header-anchor" href="#第4課" aria-hidden="true">#</a> 第４課**</h2>
-<p><strong>１．今　ー時ー分です。</strong></p>
+<h3 id="_3-どこ-どちら" tabindex="-1"><a class="header-anchor" href="#_3-どこ-どちら" aria-hidden="true">#</a> <strong>３．どこ／どちら</strong></h3>
+<h2 id="第4課" tabindex="-1"><a class="header-anchor" href="#第4課" aria-hidden="true">#</a> 第４課</h2>
+<h3 id="_1-今-ー時ー分です。" tabindex="-1"><a class="header-anchor" href="#_1-今-ー時ー分です。" aria-hidden="true">#</a> <strong>１．今　ー時ー分です。</strong></h3>
 <p>今　何時　ですか。</p>
 <p>ーー　７時１０分です。</p>
-<p><strong>２．動詞ます／動詞ません／動詞ました／動詞ませんでした</strong></p>
+<h3 id="_2-動詞ます-動詞ません-動詞ました-動詞ませんでした" tabindex="-1"><a class="header-anchor" href="#_2-動詞ます-動詞ません-動詞ました-動詞ませんでした" aria-hidden="true">#</a> <strong>２．動詞ます／動詞ません／動詞ました／動詞ませんでした</strong></h3>
 <p>日语分为非过去时和过去时。非过去时包括现在和未来都用ます</p>
-<p><strong>３．名詞（時間）　に　動詞</strong></p>
+<h3 id="_3-名詞-時間-に-動詞" tabindex="-1"><a class="header-anchor" href="#_3-名詞-時間-に-動詞" aria-hidden="true">#</a> <strong>３．名詞（時間）　に　動詞</strong></h3>
 <p>在表示时间的名词后面加上助词 に，来表示动作进行的时间</p>
 <p>例：７月２日　に　日本へ　来ました。</p>
-<p><strong>４．名詞A　から　名詞B　まで</strong></p>
+<h3 id="_4-名詞a-から-名詞b-まで" tabindex="-1"><a class="header-anchor" href="#_4-名詞a-から-名詞b-まで" aria-hidden="true">#</a> <strong>４．名詞A　から　名詞B　まで</strong></h3>
 <p>从A到B，A和B可以是时间。から、まで可以单独使用。</p>
 <p>例：９時から５時まで勉強します。</p>
 <p>銀行は　９時から３時までです。</p>
-<p><strong>５．名詞A<strong><strong>と</strong></strong>名詞B</strong></p>
+<h3 id="_5-名詞aと名詞b" tabindex="-1"><a class="header-anchor" href="#_5-名詞aと名詞b" aria-hidden="true">#</a> <strong>５．名詞A</strong>と名詞B</h3>
 <p>词语并列，但此种举例为完整举例，说明只有A和B，没有其他东西了。</p>
 <p><strong>６．～ね</strong></p>
 <p>接在句尾，表示说话人希望得到听话人的同意或者说话人对某一事物加以确认或叮嘱的语气。</p>
-<h2 id="第5課" tabindex="-1"><a class="header-anchor" href="#第5課" aria-hidden="true">#</a> 第５課**</h2>
-<p><strong>１．名詞（場所）へ　行きます／来ます／帰ります。</strong></p>
+<h2 id="第5課" tabindex="-1"><a class="header-anchor" href="#第5課" aria-hidden="true">#</a> 第５課</h2>
+<h3 id="_1-名詞-場所-へ-行きます-来ます-帰ります。" tabindex="-1"><a class="header-anchor" href="#_1-名詞-場所-へ-行きます-来ます-帰ります。" aria-hidden="true">#</a> <strong>１．名詞（場所）へ　行きます／来ます／帰ります。</strong></h3>
 <p>へ表示移动的方向</p>
-<p><strong>２．どこ「へ」も　行きません／行きませんでした</strong></p>
+<h3 id="_2-どこ「へ」も-行きません-行きませんでした" tabindex="-1"><a class="header-anchor" href="#_2-どこ「へ」も-行きません-行きませんでした" aria-hidden="true">#</a> <strong>２．どこ「へ」も　行きません／行きませんでした</strong></h3>
 <p>も在这里表示完全否定，哪儿也不去。由于使用了助词も，因此助词へ就此省略。</p>
-<p>**３．名詞（交通工具）**<strong>で</strong>　<strong>行きます／来ます／帰ります</strong></p>
+<h3 id="_3-名詞-交通工具-で-行きます-来ます-帰ります" tabindex="-1"><a class="header-anchor" href="#_3-名詞-交通工具-で-行きます-来ます-帰ります" aria-hidden="true">#</a> ３．名詞（交通工具）で　<strong>行きます／来ます／帰ります</strong></h3>
 <p>で在这里表示手段，方法。这里表示使用什么交通工具</p>
-<p>**４．名詞（人／動物）**<strong>と</strong>　<strong>動詞</strong></p>
+<h3 id="_4-名詞-人-動物-と-動詞" tabindex="-1"><a class="header-anchor" href="#_4-名詞-人-動物-と-動詞" aria-hidden="true">#</a> ４．名詞（人／動物）<strong>と</strong>　<strong>動詞</strong></h3>
 <p>と　表示与自己行动的人或者动物，一个人要用　ひとりで，而不用助词 と</p>
 <p>例：家族と日本へ来ました。</p>
 <p>一人で東京へ行きます。</p>
 <p><strong>５．いつ</strong></p>
 <p>询问笼统的时间的，一般放在句首，回答一般比较随意，如几月几号，下周，下个月...</p>
 <p>例：いつ　日本へ来ましたか。</p>
-<h2 id="第6課" tabindex="-1"><a class="header-anchor" href="#第6課" aria-hidden="true">#</a> 第６課**</h2>
-<p><strong>１．名詞****を</strong>　<strong>他动词</strong></p>
-<p><strong>２．名詞****を</strong>　<strong>します。</strong></p>
-<p><strong>３．何をしますか／何をしましたか。</strong></p>
+<h2 id="第6課" tabindex="-1"><a class="header-anchor" href="#第6課" aria-hidden="true">#</a> 第６課</h2>
+<h3 id="_1-名詞-を-他动词" tabindex="-1"><a class="header-anchor" href="#_1-名詞-を-他动词" aria-hidden="true">#</a> <strong>１．名詞****を</strong>　<strong>他动词</strong></h3>
+<h3 id="_2-名詞-を-します。" tabindex="-1"><a class="header-anchor" href="#_2-名詞-を-します。" aria-hidden="true">#</a> <strong>２．名詞****を</strong>　<strong>します。</strong></h3>
+<h3 id="_3-何をしますか-何をしましたか。" tabindex="-1"><a class="header-anchor" href="#_3-何をしますか-何をしましたか。" aria-hidden="true">#</a> <strong>３．何をしますか／何をしましたか。</strong></h3>
 <p>笼统第询问做什么，做了什么</p>
-<p><strong>４．なん　、　なに</strong></p>
+<h3 id="_4-なん-、-なに" tabindex="-1"><a class="header-anchor" href="#_4-なん-、-なに" aria-hidden="true">#</a> <strong>４．なん　、　なに</strong></h3>
 <p>通常这两个意思相同。后续单词的词头为「た行」「だ行」「な行」或者后续词是量词时用なん，其余时候用なに</p>
 <p>例：なんですか。なん時ですか。なにを　買いますか。</p>
-<p>**５．名詞（場所）**<strong>で</strong>　<strong>動詞</strong></p>
+<h3 id="_5-名詞-場所-で-動詞" tabindex="-1"><a class="header-anchor" href="#_5-名詞-場所-で-動詞" aria-hidden="true">#</a> **５．名詞（場所）**<strong>で</strong>　<strong>動詞</strong></h3>
 <p>で　再次表示动作发生的场所。</p>
-<p><strong>６．動詞ませんか／動詞ましょう</strong></p>
+<h3 id="_6-動詞ませんか-動詞ましょう" tabindex="-1"><a class="header-anchor" href="#_6-動詞ませんか-動詞ましょう" aria-hidden="true">#</a> <strong>６．動詞ませんか／動詞ましょう</strong></h3>
 <h2 id="第7課" tabindex="-1"><a class="header-anchor" href="#第7課" aria-hidden="true">#</a> 第７課**</h2>
 <p><strong>１．名詞（工具、手段）<strong><strong>で</strong></strong>動詞</strong></p>
 <p>用什么工具，手段、语言等等做什么。这里で表示手段和方法。语言+で表示用什么语言。</p>
@@ -275,12 +277,12 @@
 <h2 id="第14课" tabindex="-1"><a class="header-anchor" href="#第14课" aria-hidden="true">#</a> 第14课**</h2>
 <p><strong>１．动词的类型</strong></p>
 <p>消します、話します这种是特殊的Ⅰ类动词，只是它词尾是し，看起来像是Ⅲ类动词。</p>
-<p>​    <img src="@source/images/clipboard.png" alt="0"></p>
+<p>​    <img src="@source/images/dongci.png" alt="0"></p>
 <p><strong>２．动词的て形</strong></p>
 <p>Ⅱ类动词直接用ます形加上て就行</p>
 <p>Ⅲ类动词也是ます形加上て就行。</p>
 <p>Ⅰ类动词分别有几种情况。其中词尾是し的，和行きます的て形活用比较特殊。</p>
-<p>​    <img src="https://note.youdao.com/yws/public/resource/a7d1ee706eebc643b13dca8d54b32d1f/xmlnote/9140360EC5E2489AADFB3C7B45ECB8C7/10094" alt="0"></p>
+<p>​    <img src="@source/images/dongci2.png" alt="0"></p>
 <p><strong>３．动词て形　ください</strong></p>
 <p>这一句型用于指示，<strong>委托或劝诱对方</strong>做某件事情。但在作为委托使用时语气并不是十分客气，所以在作为委托时时常加上「すみません」</p>
 <p>例：ボールペンで　名前を書いて　ください。</p>

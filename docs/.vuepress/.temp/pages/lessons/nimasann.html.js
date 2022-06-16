@@ -13,37 +13,37 @@ export const data = {
       "children": [
         {
           "level": 3,
-          "title": "１．名詞A　は　名詞B　です。###",
+          "title": "１．名詞A　は　名詞B　です。",
           "slug": "_1-名詞a-は-名詞b-です。",
           "children": []
         },
         {
           "level": 3,
-          "title": "２．名詞A　は　名詞B　じゃありません。###",
+          "title": "２．名詞A　は　名詞B　じゃありません。",
           "slug": "_2-名詞a-は-名詞b-じゃありません。",
           "children": []
         },
         {
           "level": 3,
-          "title": "３．名詞A　は　名詞B　ですか。###",
+          "title": "３．名詞A　は　名詞B　ですか。",
           "slug": "_3-名詞a-は-名詞b-ですか。",
           "children": []
         },
         {
           "level": 3,
-          "title": "４．名詞　も　…###",
+          "title": "４．名詞　も　…",
           "slug": "_4-名詞-も",
           "children": []
         },
         {
           "level": 3,
-          "title": "５．名詞A　の　名詞B###",
+          "title": "５．名詞A　の　名詞B",
           "slug": "_5-名詞a-の-名詞b",
           "children": []
         },
         {
           "level": 3,
-          "title": "６．～さん／ちゃん###",
+          "title": "６．～さん／ちゃん",
           "slug": "_6-さん-ちゃん",
           "children": []
         }
@@ -53,31 +53,174 @@ export const data = {
       "level": 2,
       "title": "第2課",
       "slug": "第2課",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "１．これ／それ／あれ",
+          "slug": "_1-これ-それ-あれ",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "２．この名詞／その名詞／あの名詞",
+          "slug": "_2-この名詞-その名詞-あの名詞",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "３．そうです。",
+          "slug": "_3-そうです。",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "４．～か、～か",
+          "slug": "_4-か、-か",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "５．そうですか。",
+          "slug": "_5-そうですか。",
+          "children": []
+        }
+      ]
     },
     {
       "level": 2,
-      "title": "第３課**",
+      "title": "第３課",
       "slug": "第3課",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "１．ここ／そこ／あそこ／こちら／そちら／あちら",
+          "slug": "_1-ここ-そこ-あそこ-こちら-そちら-あちら",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "２．名詞A　は　場所Bです。",
+          "slug": "_2-名詞a-は-場所bです。",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "３．どこ／どちら",
+          "slug": "_3-どこ-どちら",
+          "children": []
+        }
+      ]
     },
     {
       "level": 2,
-      "title": "第４課**",
+      "title": "第４課",
       "slug": "第4課",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "１．今　ー時ー分です。",
+          "slug": "_1-今-ー時ー分です。",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "２．動詞ます／動詞ません／動詞ました／動詞ませんでした",
+          "slug": "_2-動詞ます-動詞ません-動詞ました-動詞ませんでした",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "３．名詞（時間）　に　動詞",
+          "slug": "_3-名詞-時間-に-動詞",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "４．名詞A　から　名詞B　まで",
+          "slug": "_4-名詞a-から-名詞b-まで",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "５．名詞Aと名詞B",
+          "slug": "_5-名詞aと名詞b",
+          "children": []
+        }
+      ]
     },
     {
       "level": 2,
-      "title": "第５課**",
+      "title": "第５課",
       "slug": "第5課",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "１．名詞（場所）へ　行きます／来ます／帰ります。",
+          "slug": "_1-名詞-場所-へ-行きます-来ます-帰ります。",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "２．どこ「へ」も　行きません／行きませんでした",
+          "slug": "_2-どこ「へ」も-行きません-行きませんでした",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "３．名詞（交通工具）で　行きます／来ます／帰ります",
+          "slug": "_3-名詞-交通工具-で-行きます-来ます-帰ります",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "４．名詞（人／動物）と　動詞",
+          "slug": "_4-名詞-人-動物-と-動詞",
+          "children": []
+        }
+      ]
     },
     {
       "level": 2,
-      "title": "第６課**",
+      "title": "第６課",
       "slug": "第6課",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "１．名詞****を　他动词",
+          "slug": "_1-名詞-を-他动词",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "２．名詞****を　します。",
+          "slug": "_2-名詞-を-します。",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "３．何をしますか／何をしましたか。",
+          "slug": "_3-何をしますか-何をしましたか。",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "４．なん　、　なに",
+          "slug": "_4-なん-、-なに",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "**５．名詞（場所）**で　動詞",
+          "slug": "_5-名詞-場所-で-動詞",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "６．動詞ませんか／動詞ましょう",
+          "slug": "_6-動詞ませんか-動詞ましょう",
+          "children": []
+        }
+      ]
     },
     {
       "level": 2,
@@ -944,16 +1087,16 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1655370185000,
+    "updatedTime": 1655371081000,
     "contributors": [
       {
         "name": "Konia Huo",
-        "email": "huoqihua@cn.ibm.com",
-        "commits": 1
+        "email": "konia.ho@gmail.com",
+        "commits": 2
       },
       {
         "name": "Konia Huo",
-        "email": "konia.ho@gmail.com",
+        "email": "huoqihua@cn.ibm.com",
         "commits": 1
       }
     ]
