@@ -1,5 +1,5 @@
 export const themeData = {
-  "logo": "https://vuejs.org/images/logo.png",
+  "logo": "",
   "sidebar": "auto",
   "sidebarDepth": 6,
   "lastUpdated": "Last Updated",
