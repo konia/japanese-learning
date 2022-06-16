@@ -1,1 +1,0 @@
-const e={key:"v-4ed0dd22",path:"/japanese.html",title:"\u65E5\u672C\u8A9E\u7248",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"japanese.md"};export{e as data};

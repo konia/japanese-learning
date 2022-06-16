@@ -1,1 +1,0 @@
-const t={key:"v-47ac4dbc",path:"/property/quantifier.html",title:"\u6570\u91CF\u8BCD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"property/quantifier.md"};export{t as data};

@@ -1,1 +1,0 @@
-const e={key:"v-67ddf40b",path:"/lesson-five.html",title:"\u7B2C\u4E94\u8AB2\u3000\u68EE\u3055\u3093\u306F7\u6642\u306B\u8D77\u304D\u307E\u3059",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"lesson-five.md"};export{e as data};

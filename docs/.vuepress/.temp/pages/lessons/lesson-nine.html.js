@@ -7,27 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1646729284000,
+    "updatedTime": 1646731633000,
     "contributors": [
       {
         "name": "Konia Huo",
         "email": "huoqihua@cn.ibm.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   },
   "filePathRelative": "lessons/lesson-nine.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

@@ -1,1 +1,0 @@
-const t={key:"v-5c1f33fe",path:"/property/noun.html",title:"\u540D\u8BCD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"property/noun.md"};export{t as data};
