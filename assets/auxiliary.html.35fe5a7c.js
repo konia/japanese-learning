@@ -1,0 +1,1 @@
+const t={key:"v-e1fa3f98",path:"/property/auxiliary.html",title:"\u52A9\u8BCD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646731633e3,contributors:[{name:"Konia Huo",email:"huoqihua@cn.ibm.com",commits:2}]},filePathRelative:"property/auxiliary.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-9c3a641e",path:"/property/adjective.html",title:"\u5F62\u5BB9\u8BCD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646727673e3,contributors:[{name:"Konia Huo",email:"huoqihua@cn.ibm.com",commits:1}]},filePathRelative:"property/adjective.md"};export{e as data};

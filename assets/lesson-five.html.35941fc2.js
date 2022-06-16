@@ -1,0 +1,1 @@
+const e={key:"v-68ab105f",path:"/lessons/lesson-five.html",title:"\u7B2C\u4E94\u8AB2\u3000\u68EE\u3055\u3093\u306F7\u6642\u306B\u8D77\u304D\u307E\u3059",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646729284e3,contributors:[{name:"Konia Huo",email:"huoqihua@cn.ibm.com",commits:1}]},filePathRelative:"lessons/lesson-five.md"};export{e as data};
