@@ -19,7 +19,14 @@ export const themeData = {
             "/lessons/lesson-six.md",
             "/lessons/lesson-seven.md",
             "/lessons/lesson-eight.md",
-            "/lessons/lesson-nine.md"
+            "/lessons/lesson-nine.md",
+            "/lessons/nimasann.md"
+          ]
+        },
+        {
+          "text": "大家的日本语",
+          "children": [
+            "/lessons/nimasann.md"
           ]
         }
       ]

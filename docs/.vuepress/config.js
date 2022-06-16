@@ -18,37 +18,23 @@ module.exports = {
         children: [
           {
             text: '标准日本语',
-            children: [
-              '/lessons/japanese.md',
-              '/lessons/lesson-one.md',
-              '/lessons/lesson-two.md',
-              '/lessons/lesson-three.md',
-              '/lessons/lesson-four.md',
-              '/lessons/lesson-five.md',
-              '/lessons/lesson-six.md',
-              '/lessons/lesson-seven.md',
-              '/lessons/lesson-eight.md',
-              '/lessons/lesson-nine.md',
-            ],
-          }
-        ]
+            children: ['/lessons/japanese.md', '/lessons/lesson-one.md', '/lessons/lesson-two.md', '/lessons/lesson-three.md', '/lessons/lesson-four.md', '/lessons/lesson-five.md', '/lessons/lesson-six.md', '/lessons/lesson-seven.md', '/lessons/lesson-eight.md', '/lessons/lesson-nine.md', '/lessons/nimasann.md'],
+          },
+          {
+            text: '大家的日本语',
+            children: ['/lessons/nimasann.md'],
+          },
+        ],
       },
       {
         text: '补充',
         children: [
           {
             text: '词性',
-            children: [
-              '/property/adjective.md',
-              '/property/auxiliary.md',
-              '/property/noun.md',
-              '/property/quantifier.md',
-              '/property/verb.md'
-            ],
+            children: ['/property/adjective.md', '/property/auxiliary.md', '/property/noun.md', '/property/quantifier.md', '/property/verb.md'],
           },
-        ]
-      }
-    ]
-  }
-  
-}
+        ],
+      },
+    ],
+  },
+};
